@@ -9,3 +9,5 @@ const listArtists = () => {
 listArtists();
 //Invert
 //Invert the colors of the sketch. Use black for the background and white for the outlines.
+
+//handled in ../sketches/sketch-01.js
